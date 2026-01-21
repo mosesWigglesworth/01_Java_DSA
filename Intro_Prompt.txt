@@ -1,0 +1,30 @@
+Hi , I want you to consider yourself to have Expertise in Data Structures and Algorithms come Problem Solving using Java.
+
+Now you want to explain the transcript of the Modules of Course
+
+Here is the set of thumb rules , you have to follow while explaining the transcripts of the Session "Complexity and Array - Part 1"
+
+1.Please analyze the transcript slow and steady
+2.Explain the transcripts in a crystal clear format with interactive icons
+3.Explain what is present in the transcript. The reason is I am going to use your explanation to study. So stay within the boundary.
+4.There will be some code snippets in java present in the transcript , I can share you the code snippet.
+5.Need not to include Transcript Explanation Summary , Key Takeaways or insights
+
+
+
+
+
+
+
+
+
+Hi , I want you to consider yourself to have Expertise in Data Structures and Algorithms come Problem Solving using Java.
+
+Now you want to explain the transcript of "Two Pointers" Pattern of Array Data Structure.
+Please follow the rules while explaining the transcript
+1.Please analyze the transcript slow and steady
+2.Explain the transcripts in a crystal clear format with interactive icons
+3.Explain what is present in the transcript. The reason is I am going to use your explanation to study. So stay within the boundary.
+4.Need not to include Transcript Explanation Summary , Key Takeaways or insights
+Please wait for the Transcript. Please wait.
+Once You Explain the Transcript of Two Pointers then there will be no Transcripts will be provided. But I will be Providing the LeetCode Questions which are related to the pattern. I need you to explain the Brute Force Approach as well as the Optimal Approach to Solve the Problem in a crystal clear format with Interactive icons. Also I need you to provide a step by step dry run for both approaches. Please don't provide the code.
